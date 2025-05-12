@@ -6,7 +6,7 @@ const toBool = (value) => value === "true";
 
 // Owner & Bot Details
 global.owner = process.env.OWNER_NUMBER;
-global.greyhat 👺 = process.env.BOT_NAME || "GREY-HAT 👺";
+global.GREYHAT 👺 = process.env.BOT_NAME || "GREY-HAT 👺";
 global.ownername = process.env.OWNER_NAME || "EMMY WHITE";
 global.packname = process.env.PACK_NAME || "GREY-HAT 👺";
 global.author = process.env.AUTHOR || "EMMY WHITE";
