@@ -6,12 +6,10 @@ const toBool = (value) => value === "true";
 
 // Owner & Bot Details
 global.owner = process.env.OWNER_NUMBER;
-global.anitav4 = process.env.BOT_NAME || "GREY-HAT 👺";
+global.greyhat 👺 = process.env.BOT_NAME || "GREY-HAT 👺";
 global.ownername = process.env.OWNER_NAME || "EMMY WHITE";
 global.packname = process.env.PACK_NAME || "GREY-HAT 👺";
 global.author = process.env.AUTHOR || "EMMY WHITE";
-global.channelname = process.env.CHANNEL_NAME || "EMMY WHTE";
-global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
 
 // Auto-Features
 global.autoTyping = toBool(process.env.AUTO_TYPING);
