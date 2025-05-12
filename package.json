@@ -1,6 +1,6 @@
 {
   "name": "GREY-HAT 👺",
-  "version": "4.0.0",
+  "version": "2.0.0",
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
   "type": "commonjs",
